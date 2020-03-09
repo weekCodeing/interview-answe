@@ -25,7 +25,7 @@
 ## Pull Request 规范
 
 - 请先 `fork` 一份到自己的项目下，不要直接在仓库下建分支。
-- 类库的`commit` 信息要以add vue questions 的形式填写。
+- 类库的`commit` 信息要以`add 提交类型(vue OR ES6) questions` 的形式填写。
 - 提交 `PR` 前请 `rebase`，确保 `commit` 记录的整洁。
 - 确保 `PR` 是提交到 `master` 分支，目前就只有一个分支。
 - 合并需要 `review` 通过后即可合并。
