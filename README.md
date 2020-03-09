@@ -51,4 +51,4 @@
 > 相信这个题库，一定会对你接下来的面试起到不小的帮助～～
 
 ## License
-[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/webVueBlog/interview-answe)
