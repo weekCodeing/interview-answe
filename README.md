@@ -1,3 +1,5 @@
+英语版本-[英语版本](https://github.com/webVueBlog/interview-answe/blob/master/README.en.md)
+
 # 前端面试日更解答 interview-answe 1+1
 
 什么是interview-answe 1+1？一问一答，解决所有前端问题。
