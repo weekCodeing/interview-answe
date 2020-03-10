@@ -1,4 +1,4 @@
-英语版本-[英语版本](https://github.com/webVueBlog/interview-answe/blob/master/README.en.md)
+英文版本-[The English version](https://github.com/webVueBlog/interview-answe/blob/master/README.en.md)
 
 # 前端面试日更解答 interview-answe 1+1
 
