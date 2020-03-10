@@ -16,4 +16,6 @@
 9. [简述同步和异步的区别](https://github.com/webVueBlog/interview-answe/issues/9)
 10. [px 和 em 的区别](https://github.com/webVueBlog/interview-answe/issues/10)
 11. [什么是响应式网页? ](https://github.com/webVueBlog/interview-answe/issues/11)
-
+12. [什么是响应式编程？](https://github.com/webVueBlog/interview-answe/issues/12)
+13. [什么是单元测试和集成测试？他们各有什么特点？](https://github.com/webVueBlog/interview-answe/issues/13)
+14. [单元测试、集成测试、系统测试区别？](https://github.com/webVueBlog/interview-answe/issues/14)
