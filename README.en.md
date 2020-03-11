@@ -33,8 +33,9 @@ Friends who submit PR contributions will show their profile pictures and links t
 
 ## You can
 
-one. You can write questions in Issues, Title, Leave a comment, etc. Let's do the questions
-two. You can write your answer to each question here
+a. You can write questions in Issues, Title, Leave a comment, etc. Let's do the questions
+
+b. You can write your answer to each question here
 
 ## WeChat group
 
