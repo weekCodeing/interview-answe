@@ -31,6 +31,19 @@ In the analects of Confucius, Confucius said, "I meditate on myself three times 
 
 Friends who submit PR contributions will show their profile pictures and links to github on the homepage. Thanks!
 
+## You can
+
+one. You can write questions in Issues, Title, Leave a comment, etc. Let's do the questions
+two. You can write your answer to each question here
+
+## WeChat group
+
+At present, WeChat group: add me WeChat (xiaoda0423) (note, real-name system (name) - work/school (company/school) - work years (years))
+
+Note come intention!!
+
+1. [ban] front interview day more solutions 1+1 group
+
 ## History interview question
 
 - [Look at all](https://github.com/webVueBlog/interview-answe/blob/master/interviewAnswe.md)
