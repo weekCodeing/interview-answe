@@ -38,6 +38,12 @@
 
 提交`PR`贡献的朋友将会在首页显示个人头像及`github`的链接，表示感谢！
 
+## 微信群
+
+> 目前，微信群：加我微信即可（备注，实名制（姓名）-工作/学籍（公司/学校）-工作几年（年限））
+
+1.【禁】前端面试日更解答 1+1①群
+
 ## 历史面试题
 
 - [查看全部](https://github.com/webVueBlog/interview-answe/blob/master/interviewAnswe.md)
