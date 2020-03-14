@@ -45,6 +45,12 @@ Note come intention!!
 
 1. [ban] front interview day more solutions 1+1 group
 
+## Be a friend 👬
+
+![](https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/微信图片_20200130160806.jpg)
+
+![](https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/微信图片_20200308211731.jpg)
+
 ## History interview question
 
 - [Look at all](https://github.com/webVueBlog/interview-answe/blob/master/interviewAnswe.md)
