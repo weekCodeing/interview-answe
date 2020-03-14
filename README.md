@@ -51,6 +51,10 @@
 
 1.【禁】前端面试日更解答 1+1①群
 
+## Be a friend 👬
+
+![](https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/微信图片_20200130160806.jpg)
+
 ## 历史面试题
 
 - [查看全部](https://github.com/webVueBlog/interview-answe/blob/master/interviewAnswe.md)
