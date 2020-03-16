@@ -21,6 +21,12 @@
 
 ## interview-answe 1+1 贡献指南
 
+## 提问让我们回答
+
+打开 [新建 Issue 链接](https://github.com/webVueBlog/interview-answe/issues), 格式如下：
+
+![](https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/QQ截图20200317003432.png)
+
 ### Issue 规范
 
 1. `issue` 仅用于提交面试题，其它内容可能会被直接关闭。如果你在使用时产生了疑问，可以加作者微信咨询(xiaoda0423)
