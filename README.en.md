@@ -14,6 +14,12 @@ In the analects of Confucius, Confucius said, "I meditate on myself three times 
 
 ## Interview -answe 1+1 contribution guide
 
+## Let's answer some questions
+
+Open the new Issue link (https://github.com/webVueBlog/interview-answe/issues), format is as follows:
+
+![](https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/QQ截图20200317003432.png)
+
 ### Issue specification
 
 1. Issue is only used for submitting interview questions. Other content may be closed directly. If you have a question when using, you can add author WeChat advisory (xiaoda0423)
