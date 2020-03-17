@@ -2,6 +2,14 @@
 
 # 前端面试日更解答 interview-answe 1+1
 
+<p align="left">
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=html" alt="html"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=skill" alt="skill"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
+</p>
+
 什么是interview-answe 1+1？一问一答，解决所有前端问题。
 
 > 转眼间又到了金三银四，想必很多小伙伴现在都跃跃欲试。 
