@@ -1,5 +1,13 @@
 ## Front end interview day more answers interview-answe 1+1
 
+<p align="left">
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=html" alt="html"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=skill" alt="skill"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
+</p>
+
 What is interview-answe 1+1? Question and answer, solve all the front end problems.
 
 ## In a twinkling of an eye to the gold three silver four, presumably a lot of partners are now eager to try.
