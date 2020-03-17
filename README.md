@@ -1,14 +1,13 @@
 英文版本-[The English version](https://github.com/webVueBlog/interview-answe/blob/master/README.en.md)
 
 # 前端面试日更解答 interview-answe 1+1
-![]()
 
 <p align="left">
   <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f6261646765732f736869656c64732e7376673f6c6162656c3d68746d6c.svg" alt="html"></a>
-  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
-  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
-  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=skill" alt="skill"></a>
-  <a href="https://github.com/webVueBlog/interview-answe/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f6261646765732f736869656c64732e7376673f6c6162656c3d637373.svg" alt="css"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f6261646765732f736869656c64732e7376673f6c6162656c3d6a617661736372697074.svg" alt="javascript"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/issues"><img src="https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c616e6775616765732f746f702f6261646765732f736869656c64732e7376673f6c6162656c3d736b696c6c.svg" alt="skill"></a>
+  <a href="https://github.com/webVueBlog/interview-answe/stargazers"><img src="https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/68747470733a2f2f696d672e736869656c64732e696f2f7265646d696e652f706c7567696e2f73746172732f7265646d696e655f786c73785f666f726d61745f69737375655f6578706f727465722e737667.svg" alt="Statr"></a>
 </p>
 
 什么是interview-answe 1+1？一问一答，解决所有前端问题。
