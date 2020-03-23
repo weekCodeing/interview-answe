@@ -10,6 +10,9 @@
   <a href="https://github.com/webVueBlog/interview-answe/stargazers"><img src="https://cdn.jsdelivr.net/gh/webVueBlog/dadapic/img/68747470733a2f2f696d672e736869656c64732e696f2f7265646d696e652f706c7567696e2f73746172732f7265646d696e655f786c73785f666f726d61745f69737375655f6578706f727465722e737667.svg" alt="Statr"></a>
 </p>
 
+## 🐛 有问题请留言
+各位同学可以在issues中提问，无论是实际项目中遇到的问题，或者是技术问题都可以， 大家一起解决💯 👍 😄。
+
 什么是interview-answe 1+1？一问一答，解决所有前端问题。
 
 > 转眼间又到了金三银四，想必很多小伙伴现在都跃跃欲试。 
