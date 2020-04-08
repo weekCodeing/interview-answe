@@ -42,7 +42,7 @@
 
 ## 重大事件
 
-- 2020.03.09———开始interview-answe 1+1 提交贡献
+- 2020.03.09——开始interview-answe 1+1 提交贡献
 
 ## interview-answe 1+1 贡献指南
 
