@@ -30,6 +30,16 @@
 
 > （不忘初心，`html、css、javascript`才是基石！）
 
+## 在哪可以看到
+
+- [达达前端](https://blog.csdn.net/qq_36232611) （CSDN每天同步更新）
+- [魔王哪吒](https://juejin.im/user/5e477d7ce51d4526c550a27d)  掘金专栏（每天同步更新）
+- [简书专栏](https://www.jianshu.com/u/c785ece603d1) （每天同步更新）
+- [segmentfault专栏](https://segmentfault.com/u/dashucoding) （每天同步更新）
+- 微信公众号：达达前端(dadaqianduan)（扫描二维码，每天同步更新）
+
+一键同步的
+
 ## interview-answe 1+1 贡献指南
 
 ## 提问让我们回答
