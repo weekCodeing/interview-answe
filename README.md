@@ -90,7 +90,7 @@
 
 ## 历史面试题
 
-- [查看全部](https://github.com/webVueBlog/interview-answe/blob/master/interviewAnswe.md)
+- [查看全部](https://github.com/webVueBlog/interview-answe/issues)
 
 ## 掘金-魔王哪吒
 
